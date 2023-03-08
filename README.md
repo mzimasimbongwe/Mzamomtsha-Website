@@ -211,8 +211,8 @@ This is a home page code for the website we have created
       </html>
 
 
-## A link to your code & issue tracker
-https://comfy-tanuki-3f2314.netlify.app
+## A link to the code & issue tracker
+- Source Code: github.com/$project/$project
 
 ## Frequently Asked Questions (FAQ)
 We have provided a frequently asked questions list to the websites to help users to relate to their question answers 
