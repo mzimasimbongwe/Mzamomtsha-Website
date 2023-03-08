@@ -2,14 +2,12 @@
 We the researcher formulated the scope of this project to identify the boundaries of this project. The website, which is going to be the output of the project, is simply going to transition Mzamomtsha Primary School’s method of promoting, informing and handling data to a computerized one such as, allowing the students, parents and visitors to view some information of the institution, recording all the necessary information with regard from the students, has the capability to keep in track the records of the student, allowing parents and students to access anytime they want, and providing features that make the school part of a member’s daily functions.
 
 ## Installation instructions
-1. Get a free API Key at https://example.com
-2. Clone the repo
-git clone https://github.com/github_username/repo_name.git
-3. Install NPM packages
-npm install
-4. Enter your API in config.js
-const API_KEY = 'ENTER YOUR API';
-
+Login into your cPanel.
+Click the File Manager button in the Files section.
+Navigate to the directory you want to upload a file to and click the Upload link at the top of the File Manager. This will open an upload page in a new tab.
+Drag and drop your file into the window, or click Select File to browse your computer for the file you want to upload. Check the available box if you want to overwrite files that already exist in the upload folder. Your file will then upload. You will see a “100%” message when the upload completes.
+Click the Go Back link to return to the File Manager.
+Refresh your File Manager by clicking the Reload link at the top middle of the File Manager. You should then see the file listed in the File Manager.
 ## A short example or tutorial
 https://mzamomtsha-website-project.netlify.app
 
@@ -54,7 +52,7 @@ Grid systems are used for creating page layouts through a series of rows and col
 ## The project’s license
 Distributed under the © 2023 GitHub, and Visual Studio Code https://code.visualstudio.com/
 
-##E-mail addresses
+## E-mail addresses
 mzimasimbongwe98@gmail.com
 
 ## Frequently Asked Questions (FAQ)
