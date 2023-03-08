@@ -10,19 +10,35 @@ npm install
 4. Enter your API in config.js
 const API_KEY = 'ENTER YOUR API';
 
-## A small code example
-This is a home page code for the website we have created
+## A short example or tutorial
+https://mzamomtsha-website-project.netlify.app
+
 
 ## A link to the code & issue tracker
 - Source Code: github.com/$project/$project
 
-##Documentation of all codes
+## Documentation of all codes
 HTML
 CSS
 BOOTSCRAP
 JAVASCRIPT
 
-##Citation information
+## Code Conversion
+We have used Html
+
+Html tags and descriptions 
+!--...-->	Represents a comment in the HTML code. Comments are not displayed on a web page (only in the source code).	 
+<!doctype>	Represents the document type. (HTML5 uses <!doctype html>)	 
+<a>	Represents a hyperlink (the link that a user clicks on to go to another web page or document).	 
+<abbr>	Represents an abbreviation	 
+<address>	Represents an address element	 
+<area>	Represents an area inside an image map. Used with the <map> and <img> elements.	 
+<article>	Represents an article. This HTML tag was introduced in HTML5.	NEW
+<aside>	Represents content aside from the page content. This HTML element is new in HTML5.
+  
+  We also used Css
+
+## Citation information
 1. w3school
 
 ## The project’s license
