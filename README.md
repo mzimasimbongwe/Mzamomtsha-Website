@@ -18,6 +18,7 @@ https://mzamomtsha-website-project.netlify.app
 - Source Code: github.com/$project/$project
 
 ## Documentation of all codes
+We have used list of mark up languages below to create our websites
 HTML
 CSS
 BOOTSCRAP
@@ -36,7 +37,16 @@ Html tags and descriptions
 <article>	Represents an article. This HTML tag was introduced in HTML5.	NEW
 <aside>	Represents content aside from the page content. This HTML element is new in HTML5.
   
-  We also used Css
+We also used Css
+What font type and size does <h1>Introduction</h1> generate? Answer: Some default from the browser (HTML tells what browser how) Early HTML - Override defaults with attributes <table border="2" bordercolor="black"> Style sheets were added to address this: Specify style to use rather than browser default Not have to code styling on every element
+
+We separated css files to html
+Content (what to display) is in HTML files Formatting information (how to display it) is in separate style sheets (.css files). Use an element attribute named class to link  (e.g. <span class="test">) Result: define style information once, use in many places Consider can you make all the text in the app slightly bigger?  Or purple is our new company color.
+
+Some Css that we used was position: static; position: relative; position: fixed; (default) - Position in document flow Position relative to default position top, right, bottom via , and left properties Position to a fixed location on the screen top, right, bottom , and via left properties position: absolute; Position relative to ancestor top, right, bottom absolute , and  element via left properties
+
+On bostrap we applied Grid system layout
+Grid systems are used for creating page layouts through a series of rows and columns that house your content. Here's how the Bootstrap grid system works:  Rows must be placed within a .container class for proper alignment and padding.  Use rows to create horizontal groups of columns.  Content should be placed within columns, and only columns may be immediate children of rows.  Predefined grid classes like .row and .col-xs-4 are available for quickly making grid layouts. LESS mixins can also be used for more semantic layouts.  Columns create gutters (gaps between column content) via padding. That padding is offset in rows for the first and last column via negative margin on .rows.  Grid columns are created by specifying the number of twelve available columns you wish to span. For example, three equal columns would use three .col-xs-4. 
 
 ## Citation information
 1. w3school
@@ -44,7 +54,8 @@ Html tags and descriptions
 ## The project’s license
 Distributed under the © 2023 GitHub, and Visual Studio Code https://code.visualstudio.com/
 
-
+##E-mail addresses
+mzimasimbongwe98@gmail.com
 
 ## Frequently Asked Questions (FAQ)
 We have provided a frequently asked questions list to the websites to help users to relate to their question answers 
