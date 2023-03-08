@@ -236,5 +236,5 @@ npm install
 const API_KEY = 'ENTER YOUR API';
 
 
-## Your project’s license
+## The project’s license
 Distributed under the © 2023 GitHub, and Visual Studio Code https://code.visualstudio.com/
